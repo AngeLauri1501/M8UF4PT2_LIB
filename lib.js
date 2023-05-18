@@ -5,3 +5,5 @@ function mean(arr){
     });
     return total / arr.length
 }
+
+module.exports = { mean }
